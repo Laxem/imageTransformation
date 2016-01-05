@@ -12,7 +12,7 @@ using namespace std;
 int main()
 {
     string adresse= "image/";
-    string nomImage = "up";
+    string nomImage = "test_Image";
 
     cout<<"lecture image"<<endl;
     Image pict(adresse+nomImage+".ppm");
